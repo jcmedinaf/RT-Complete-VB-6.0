@@ -1,0 +1,7 @@
+No. Error: 35787. No se puede asignar NULL a Value cuando la propiedad CheckBox = FALSE.OBJETO: DTPicker NOMBRE DE EQUIPO: ING03-EST03
+No. Error: 35787. No se puede asignar NULL a Value cuando la propiedad CheckBox = FALSE.OBJETO: DTPicker NOMBRE DE EQUIPO: ING03-EST03
+No. Error: 20507. Nombre de archivo no válido.OBJETO: CrystalReport NOMBRE DE EQUIPO: ING03-EST03
+No. Error: 20507. Nombre de archivo no válido.OBJETO: CrystalReport NOMBRE DE EQUIPO: ING03-EST03
+No. Error: 20507. Nombre de archivo no válido.OBJETO: CrystalReport NOMBRE DE EQUIPO: ING03-EST03
+No. Error: 20507. Nombre de archivo no válido.OBJETO: CrystalReport NOMBRE DE EQUIPO: ING03-EST03
+No. Error: 20507. Nombre de archivo no válido.OBJETO: CrystalReport NOMBRE DE EQUIPO: ING03-EST03
